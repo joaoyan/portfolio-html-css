@@ -21,11 +21,11 @@ Portfólio desenvolvido para apresentar minhas habilidades, projetos e evoluçã
 
 ## 👨‍💻 Sobre Mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio. 
 
 Tenho experiência com atendimento ao cliente, suporte operacional e tecnologia, desenvolvendo habilidades em resolução de problemas, comunicação e suporte ao usuário.
 
-Atualmente continuo aprimorando meus conhecimentos em JavaScript, desenvolvimento web e suporte técnico por meio de projetos práticos e aprendizado contínuo.
+Atualmente continuo aprimorando meus conhecimentos em JavaScript, desenvolvimento web e suporte técnico por meio de projetos práticos e aprendizado contínuo. 
 ---
 
 ## 🚀 Tecnologias
